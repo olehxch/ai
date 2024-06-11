@@ -10,7 +10,7 @@ I've personally read all materials and checked code examples.
 ## 🤖 Artificial Intelligence
 - [Artificial Intelligence: Foundations of Computational Agents, 3rd Edition](https://artint.info/3e/html/ArtInt3e.html)
 - [Dive into Deep Learning](https://d2l.ai)
-- [Artificial Intelligence: A Modern Approach. Third Edition / Stuart Russell & peter Norvig](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
+- [Artificial Intelligence: A Modern Approach. Third Edition / Stuart Russell & Peter Norvig](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
 - [Bio-Inspired Artificial Intelligence. Theories, Methods, and Technologies / Dario Floreano & Claudio Mattiussi](https://mitpress.mit.edu/9780262547734/bio-inspired-artificial-intelligence/)
 - [Artificial Intelligence Illuminated / Ben Coppin](http://futuresoft.yolasite.com/resources/Artificial%20Intelligence%20Illuminated.pdf)
 
