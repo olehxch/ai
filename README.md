@@ -12,6 +12,9 @@ I've personally read all materials and checked all code examples.
 - [Dive into Deep Learning](https://d2l.ai)
 - [Artificial Intelligence: A Modern Approach. Third Edition // Stuart Russell & peter Norvig](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
 
+### Online Courses
+- [OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
+
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch // Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
 - 
