@@ -15,7 +15,7 @@ I've personally read all materials and checked code examples.
 - [Artificial Intelligence Illuminated / Ben Coppin](http://futuresoft.yolasite.com/resources/Artificial%20Intelligence%20Illuminated.pdf)
 
 ### Online Courses
-- [OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
+- [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
 
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
