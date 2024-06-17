@@ -19,7 +19,7 @@ I've personally read most of the materials and had change to work with source co
 
 ## 🕸️ Neural Networks
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
-- [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+- [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
