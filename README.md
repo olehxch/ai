@@ -1,7 +1,7 @@
 # 🧬 Research & Development (Papers, Materials and Books)
 
 ✨ A curated list on awesome and inspirational material on cloud computing, distributed systems, microservices, and artificial intelligence.
-I've personally read most of the materials and had change to work with source code examples.
+I've personally read most of the materials and had chance to work with source code examples.
 
 ## 🧠 LLMs
 
