@@ -17,6 +17,10 @@ I've personally read most of the materials and had change to work with source co
 ### Online Courses
 - [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
 
+## 🕸️ Neural Networks
+- [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+- [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
+
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
 - 
