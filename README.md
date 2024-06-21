@@ -39,6 +39,7 @@ I've personally read most of the materials and had chance to work with source co
 ### ML & AI Frameworks
 - [MLX](https://ml-explore.github.io/mlx/build/html/install.html)
 - [JAX](https://jax.readthedocs.io/en/latest/)
+- [FLAX](https://flax.readthedocs.io/en/latest/)
 - [TensorFlow](https://www.tensorflow.org)
 - [Keras](https://keras.io)
 - [PyTorch](https://pytorch.org)
