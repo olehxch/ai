@@ -35,7 +35,13 @@ I've personally read most of the materials and had chance to work with source co
 
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
-- 
+
+### ML & AI Frameworks
+- [MLX](https://ml-explore.github.io/mlx/build/html/install.html)
+- [JAX](https://jax.readthedocs.io/en/latest/)
+- [TensorFlow](https://www.tensorflow.org)
+- [Keras](https://keras.io)
+- [PyTorch](https://pytorch.org)
 
 ## 🎞 WWDC24 | Apple
 - [WWDC24: Train your machine learning and AI models on Apple GPUs | Apple](https://www.youtube.com/watch?v=CbmTFTsbyPI)
