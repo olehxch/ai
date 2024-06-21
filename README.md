@@ -22,7 +22,7 @@ I've personally read most of the materials and had chance to work with source co
 
 ## 👻 Neural Networks & AI Visualizations 
 - [LLM Visualization](https://bbycroft.net/llm)
-- [Netron]([https://bbycroft.net/llm](https://github.com/lutzroeder/netron?tab=readme-ov-file))
+- [Netron](https://github.com/lutzroeder/netron?tab=readme-ov-file)
 - [TensorFlow Playground](https://playground.tensorflow.org)
 - [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
 - [Neural Network Visualization](https://github.com/julrog/nn_vis)
