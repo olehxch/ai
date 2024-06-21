@@ -4,7 +4,6 @@
 I've personally read most of the materials and had chance to work with source code examples.
 
 ## 🧠 LLMs
-
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
 
 ## 🤖 Artificial Intelligence
@@ -20,6 +19,13 @@ I've personally read most of the materials and had chance to work with source co
 ## 🕸️ Neural Networks
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
+
+## 👻 Neural Networks & AI Visualizations 
+- [LLM Visualization](https://bbycroft.net/llm)
+- [Netron]([https://bbycroft.net/llm](https://github.com/lutzroeder/netron?tab=readme-ov-file))
+- [TensorFlow Playground](https://playground.tensorflow.org)
+- [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
+- [Neural Network Visualization](https://github.com/julrog/nn_vis)
 
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
