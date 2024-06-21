@@ -33,7 +33,7 @@ I've personally read most of the materials and had chance to work with source co
 - [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
 - [Neural Network Visualization](https://github.com/julrog/nn_vis)
 
-## 🐍 Python (PyTorch)
+## 🐍 Python
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
 
 ### ML & AI Frameworks
