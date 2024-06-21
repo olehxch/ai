@@ -3,6 +3,12 @@
 ✨ A curated list on awesome and inspirational material on cloud computing, distributed systems, microservices, and artificial intelligence.
 I've personally read most of the materials and had chance to work with source code examples.
 
+## 👨‍🔬 Research 
+- [Machine Learning | Research at Apple](https://machinelearning.apple.com)
+- [IBM Research](https://research.ibm.com)
+- [Microsoft Research](https://www.microsoft.com/en-us/research/)
+- [Meta Research](https://research.facebook.com)
+
 ## 🧠 LLMs
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
 
