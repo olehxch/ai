@@ -1,6 +1,6 @@
 # 🧬 Research & Development (Papers, Materials and Books)
 
-✨ A curated list on awesome and inspirational material on cloud computing, distributed systems, microservices, and artificial intelligence.
+✨ A curated list on awesome and inspirational material on artificial intelligence and other topics related to cloud computing, distributed systems, microservices.
 I've personally read most of the materials and had chance to work with source code examples.
 
 ## 👨‍🔬 Research 
