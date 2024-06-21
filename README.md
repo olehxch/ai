@@ -30,3 +30,13 @@ I've personally read most of the materials and had chance to work with source co
 ## 🐍 Python (PyTorch)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
 - 
+
+## 🎞 WWDC24 | Apple
+- [WWDC24: Train your machine learning and AI models on Apple GPUs | Apple](https://www.youtube.com/watch?v=CbmTFTsbyPI)
+- [WWDC24: Explore machine learning on Apple platforms | Apple](https://www.youtube.com/watch?v=p_hyo2FRil4)
+- [WWDC24: Bring your machine learning and AI models to Apple silicon | Apple](https://www.youtube.com/watch?v=ZgG2JVnJ7nw)
+- [WWDC24: What’s new in Create ML | Apple](https://www.youtube.com/watch?v=yjblfqwR37s)
+- [WWDC24: Deploy machine learning and AI models on-device with Core ML | Apple](https://www.youtube.com/watch?v=aawk4l9W9YU)
+- [WWDC24: Support real-time ML inference on the CPU | Apple](https://www.youtube.com/watch?v=VdLgH2nJMBg)
+
+## 🎞 WWDC24: YouTube Videos
