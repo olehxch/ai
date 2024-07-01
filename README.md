@@ -1,7 +1,7 @@
 # 🧬 Science, Research & Engineering (Papers, Materials and Books)
 
 ✨ A curated list on awesome and inspirational material on artificial intelligence and other topics related to cloud computing, distributed systems, microservices.
-I've personally read most of the materials and had chance to work with source code examples. This list is constantly updated by me.
+I've personally read most of the materials and had chance to work with source code examples. This list is constantly updated by me whenewer some interesting material appears.
 
 You can also subscribe to my Medium account to read articles about artificial intelligence, cloud computing, state-of-the-art technologies, and also audio engineering! Here is a link:
 
