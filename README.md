@@ -3,11 +3,22 @@
 ✨ A curated list on awesome and inspirational material on artificial intelligence and other topics related to cloud computing, distributed systems, microservices.
 I've personally read most of the materials and had chance to work with source code examples.
 
-## 👨‍🔬 Research 
+## 👨‍🔬 Research Labs
 - [Machine Learning | Research at Apple](https://machinelearning.apple.com)
 - [IBM Research](https://research.ibm.com)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
 - [Meta Research](https://research.facebook.com)
+- [Cortical Labs - Dishbrain Intelligence](https://corticallabs.com)
+- [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu)
+- [Cohere For AI](https://cohere.com/research)
+- [Stanford AI Lab](https://ai.stanford.edu)
+- [MIT_IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
+- [Intel AI Lab](https://www.intel.com/content/www/us/en/research/ai.html)
+- [Artificial Intelligence Research Lab](https://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/)
+- [Google AI Lab](https://labs.google)
+- [NASA - Intelligent Systems Division](https://www.nasa.gov/intelligent-systems-division/)
+- [NASA - Autonomous Systems & Robotics](https://www.nasa.gov/intelligent-systems-division/autonomous-systems-and-robotics/)
+- [NASA - Robust Software Engineering](https://www.nasa.gov/intelligent-systems-division/robust-software-engineering/)
 
 ## 🧠 LLMs
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
