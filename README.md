@@ -48,6 +48,7 @@ I've personally read most of the materials and had chance to work with source co
 - [Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, NLP, and Transformers using TensorFlow](https://www.oreilly.com/library/view/learning-deep-learning/9780137470198/?_gl=1*yfv76z*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDMyOC40My4wLjA)
 - [Deep Blueberry Book](https://mithi.github.io/deep-blueberry/)
 - [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5)
+- [Intelligent Systems: Architecture, Design, and Control / Alexander M. Meystel, James S. Albus](https://www.wiley.com/en-us/Intelligent+Systems%3A+Architecture%2C+Design%2C+and+Control-p-9780471193746)
 
 ### Swarm Intelligence
 
@@ -61,6 +62,7 @@ I've personally read most of the materials and had chance to work with source co
 - [Genetic Algorithms and Machine Learning for Programmers](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
 - [Bio-Inspired Computing and Networking](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
 - [Nature-Inspired Optimization Algorithms](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
+- [Deep Learning for Unmanned Systems](https://link.springer.com/book/10.1007/978-3-030-77939-9)
 
 ### Open Journals on AI
 
