@@ -114,7 +114,14 @@ I've personally read most of the materials and had chance to work with source co
 - [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
 
 ## 🧠 LLMs
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Speech and Language Processing (3rd ed. draft) / Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
+- [Understanding Large Language Models / Thimira Amaratunga](https://link.springer.com/book/10.1007/979-8-8688-0017-7?locale=en-fr&gad_source=1)
+- [Build a Large Language Model (From Scratch) / Sebastian Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
+- [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
+- [Generative AI on AWS / Chris Fregly, Antje Barth, Shelbee Eigenbrode](https://www.oreilly.com/library/view/generative-ai-on/9781098159214/)
 
 ## 🕸️ Neural Networks
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
