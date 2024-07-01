@@ -1,4 +1,4 @@
-# 🧬 Artificial Intelligence - Science, Research & Engineering (Papers, Materials and Books)
+# 🧬 Artificial Intelligence - Science, Research & Engineering
 
 ✨ It is a curated collection on awesome and inspirational material on artificial intelligence and other topics related to appliance of intelligent approaches to cloud computing, distributed systems, microservices, and software architecture.
 I've personally read most of the materials and had chance to work with source code examples for my research and learning purposes. This list is constantly updated by me whenewer some interesting material appears.
