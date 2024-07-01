@@ -22,6 +22,10 @@ You can also subscribe to my Medium account to read articles about artificial in
 - [NASA - Intelligent Systems Division](https://www.nasa.gov/intelligent-systems-division/)
 - [NASA - Autonomous Systems & Robotics](https://www.nasa.gov/intelligent-systems-division/autonomous-systems-and-robotics/)
 - [NASA - Robust Software Engineering](https://www.nasa.gov/intelligent-systems-division/robust-software-engineering/)
+- [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
+- [OpenAI](https://openai.com/about/)
+- [Google DeepMind Research](https://deepmind.com/research/)
+- [Nvidia Resources](https://developer.nvidia.com)
 
 ## 🧠 LLMs
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
