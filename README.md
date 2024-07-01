@@ -12,7 +12,7 @@ I've personally read most of the materials and had chance to work with source co
 - [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu)
 - [Cohere For AI](https://cohere.com/research)
 - [Stanford AI Lab](https://ai.stanford.edu)
-- [MIT_IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
+- [MIT-IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
 - [Intel AI Lab](https://www.intel.com/content/www/us/en/research/ai.html)
 - [Artificial Intelligence Research Lab](https://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/)
 - [Google AI Lab](https://labs.google)
