@@ -51,8 +51,6 @@ I've personally read most of the materials and had chance to work with source co
 
 ### Swarm Intelligence
 
-Here are the links to the books you mentioned:
-
 - [Swarm Intelligence and Bio-Inspired Computation](https://www.oreilly.com/library/view/swarm-intelligence-and/9780124051638/?_gl=1*337mwk*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM5NC40Mi4wLjA.)
 - [GPU-based Parallel Implementation of Swarm Intelligence Algorithms](https://www.oreilly.com/library/view/gpu-based-parallel-implementation/9780128093641/?_gl=1*1yf5q1y*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM5Mi40NC4wLjA)
 - [Swarm Intelligence Algorithms](https://www.oreilly.com/library/view/swarm-intelligence-algorithms/9780429749506/?_gl=1*12ije5q*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM3Ni42MC4wLjA)
