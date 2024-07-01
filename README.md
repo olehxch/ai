@@ -47,8 +47,6 @@ You can also subscribe to my Medium account to read articles about artificial in
 - [Practical Machine Learning for Computer Vision](https://www.oreilly.com/library/view/practical-machine-learning/9781098102357/?_gl=1*aeszkw*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDMyMS41MC4wLjA)
 - [Learning Deep Learning: Theory and Practice of Neural Networks, Computer Vision, NLP, and Transformers using TensorFlow](https://www.oreilly.com/library/view/learning-deep-learning/9780137470198/?_gl=1*yfv76z*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDMyOC40My4wLjA)
 
-Please replace the `#` with the appropriate URLs for each book.
-
 ### Swarm Intelligence
 
 Here are the links to the books you mentioned:
@@ -63,6 +61,40 @@ Here are the links to the books you mentioned:
 - [Genetic Algorithms and Machine Learning for Programmers](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
 - [Bio-Inspired Computing and Networking](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
 - [Nature-Inspired Optimization Algorithms](https://www.oreilly.com/library/view/swarm-intelligence/9781000529753/?_gl=1*mxppcs*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM1OC4xMy4wLjA)
+
+
+### Journals on AI
+
+* [AI & Society](http://www.springer.com/journal/146)
+* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
+* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
+* [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
+* [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
+* [Applied Artificial Intelligence](https://www.tandfonline.com/toc/uaai20/current)
+* [Applied Intelligence](http://www.springer.com/journal/10489)
+* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
+* [Artificial Intelligence Review](http://www.springer.com/journal/10462)
+* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
+* [Automated Software Engineering](http://www.springer.com/journal/10515)
+* [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
+* [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
+* [Electronic Transactions on Artificial Intelligence](https://dblp.org/db/journals/etai/index.html)
+* [Evolutionary Intelligence](http://www.springer.com/journal/12065)
+* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
+* [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
+* [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
+* [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
+* [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
+* [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
+* [Minds and Machines](http://www.springer.com/journal/11023)
+* [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
+
 
 ### Online Courses
 - [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
