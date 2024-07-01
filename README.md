@@ -66,12 +66,6 @@ Here are the links to the books you mentioned:
 
 ### Open Journals on AI
 
-- [Wiley - AI Magazine]([http://www.aaai.org/Magazine/magazine.php](https://onlinelibrary.wiley.com/journal/23719621)
-- [Wiley - International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
-- [Taylor & Francis - Applied Artificial Intelligence](https://www.tandfonline.com/toc/uaai20/current)
-- [Taylor & Francis - Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
-- [World Scientific - International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
-
 - [MDPI - Future Internet](https://www.mdpi.com/journal/futureinternet)
 - [MDPI - Information](https://www.mdpi.com/journal/information)
 - [MDPI - Computers](https://www.mdpi.com/journal/computers)
