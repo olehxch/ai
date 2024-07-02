@@ -51,6 +51,8 @@ I've personally read most of the materials and had chance to work with source co
 - [Deep Blueberry Book](https://mithi.github.io/deep-blueberry/)
 - [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5)
 - [Intelligent Systems: Architecture, Design, and Control / Alexander M. Meystel, James S. Albus](https://www.wiley.com/en-us/Intelligent+Systems%3A+Architecture%2C+Design%2C+and+Control-p-9780471193746)
+- [Math and Architectures of Deep Learning / Krishnendu Chaudhury](https://www.manning.com/books/math-and-architectures-of-deep-learning)
+- [Distributed Machine Learning Patterns / Yuan Tang](https://www.manning.com/books/distributed-machine-learning-patterns)
 
 ### Swarm Intelligence
 
