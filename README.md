@@ -141,6 +141,7 @@ I've personally read most of the materials and had chance to work with source co
 - [Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data](http://arxiv.org/abs/2310.04944)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712)
 - [Cramming: Training a Language Model on a Single GPU in One Day](http://arxiv.org/abs/2212.14034)
+- [Discovering Latent Knowledge in Language Models Without Supervision](https://arxiv.org/abs/2212.03827)
 
 ## 🕸️ Neural Networks
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
