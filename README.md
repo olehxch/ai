@@ -108,12 +108,18 @@ I've personally read most of the materials and had chance to work with source co
 
 ### Online Courses
 - [IBM - Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
+- [IBM AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone)
+- [IBM Generative AI Fundamentals Specialization](https://www.coursera.org/specializations/generative-ai-for-everyone)
+- [IBM Generative AI for Software Developers Specialization](https://www.coursera.org/specializations/generative-ai-for-software-developers)
+- [IBM Introduction to Machine Learning Specialization](https://www.coursera.org/specializations/ibm-intro-machine-learning)
+- [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
 - [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
 - [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos)
 - [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/)
 - [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics)
 - [Google - Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
+- [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure)
 
 ## 🧠 LLMs
 - [Speech and Language Processing (3rd ed. draft) / Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
