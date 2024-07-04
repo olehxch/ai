@@ -116,7 +116,6 @@ I've personally read most of the materials and had chance to work with source co
 - [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
 
 ## 🧠 LLMs
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Speech and Language Processing (3rd ed. draft) / Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
 - [Understanding Large Language Models / Thimira Amaratunga](https://link.springer.com/book/10.1007/979-8-8688-0017-7?locale=en-fr&gad_source=1)
@@ -124,6 +123,18 @@ I've personally read most of the materials and had chance to work with source co
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Natural Language Processing with Transformers](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 - [Generative AI on AWS / Chris Fregly, Antje Barth, Shelbee Eigenbrode](https://www.oreilly.com/library/view/generative-ai-on/9781098159214/)
+
+### Awesome Research Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)
+- [MathChat: Converse to Tackle Challenging Math Problems with LLM Agents](https://arxiv.org/abs/2306.01337)
+- [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+- [A Comprehensive Overview of Large Language Models](http://arxiv.org/abs/2307.06435)
+- [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
+- [Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data](http://arxiv.org/abs/2310.04944)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712)
+- [Cramming: Training a Language Model on a Single GPU in One Day](http://arxiv.org/abs/2212.14034)
 
 ## 🕸️ Neural Networks
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
