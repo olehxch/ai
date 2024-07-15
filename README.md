@@ -29,6 +29,7 @@ I've personally read most of the materials and had chance to work with source co
 - [OpenAI](https://openai.com/about/)
 - [Google DeepMind Research](https://deepmind.com/research/)
 - [Nvidia Resources](https://developer.nvidia.com)
+- [Silo AI: Europe's largest private AI lab](https://www.silo.ai)
 
 ## 🤖 Artificial Intelligence
 
@@ -53,7 +54,9 @@ I've personally read most of the materials and had chance to work with source co
 - [Intelligent Systems: Architecture, Design, and Control / Alexander M. Meystel, James S. Albus](https://www.wiley.com/en-us/Intelligent+Systems%3A+Architecture%2C+Design%2C+and+Control-p-9780471193746)
 - [Math and Architectures of Deep Learning / Krishnendu Chaudhury](https://www.manning.com/books/math-and-architectures-of-deep-learning)
 - [Distributed Machine Learning Patterns / Yuan Tang](https://www.manning.com/books/distributed-machine-learning-patterns)
-
+- [Applied Machine Learning and AI for Engineers](https://www.oreilly.com/library/view/applied-machine-learning/9781492098041/)
+- [Essential Math for AI](https://www.oreilly.com/library/view/essential-math-for/9781098107628/)
+  
 ### Swarm Intelligence
 
 - [Swarm Intelligence and Bio-Inspired Computation](https://www.oreilly.com/library/view/swarm-intelligence-and/9780124051638/?_gl=1*337mwk*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDM5NC40Mi4wLjA.)
@@ -106,21 +109,6 @@ I've personally read most of the materials and had chance to work with source co
 - [ScienceDirect - SoftwareX](https://www.sciencedirect.com/journal/softwarex)
 - [ScienceDirect - Virtual Reality & Intelligent Hardware](https://www.sciencedirect.com/journal/virtual-reality-and-intelligent-hardware)
 
-### Online Courses
-- [IBM - Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
-- [IBM AI Foundations for Everyone Specialization](https://www.coursera.org/specializations/ai-foundations-for-everyone)
-- [IBM Generative AI Fundamentals Specialization](https://www.coursera.org/specializations/generative-ai-for-everyone)
-- [IBM Generative AI for Software Developers Specialization](https://www.coursera.org/specializations/generative-ai-for-software-developers)
-- [IBM Introduction to Machine Learning Specialization](https://www.coursera.org/specializations/ibm-intro-machine-learning)
-- [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
-- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2024/)
-- [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos)
-- [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/)
-- [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics)
-- [Google - Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
-- [Oracle University - OCI Generative AI Professional](https://mylearn.oracle.com/ou/course/oci-generative-ai-professional/136035/)
-- [Developing AI Applications on Azure](https://www.coursera.org/learn/developing-ai-applications-azure)
-
 ## 🧠 LLMs
 - [Speech and Language Processing (3rd ed. draft) / Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [Large Language Models at Work - Enhancing Software Systems with Language Models / Vlad Rișcuția](https://vladris.com/llm-book)
@@ -155,8 +143,48 @@ I've personally read most of the materials and had chance to work with source co
 - [Neural Network Visualization](https://github.com/julrog/nn_vis)
 
 ## 🐍 Python
+- [Hands-on Machine Learning with Python: Implement Neural Network Solutions with Scikit-learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9781484279212/)
+- [Building Recommendation Systems in Python and JAX](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/)
 - [Deep Learning with PyTorch / Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch)
 - [Artificial Intelligence Programming with Python](https://www.oreilly.com/library/view/artificial-intelligence-programming/9781119820864/?_gl=1*1zuv6q*_ga*MjAzNjIyODkxLjE2OTUwOTc5NDQ.*_ga_092EL089CH*MTY5NTU5MjIyMy4zLjEuMTY5NTU5NDIyMi4xMC4wLjA)
+- [Machine Learning with Python Cookbook, 2nd Edition](https://www.oreilly.com/library/view/machine-learning-with/9781098135713/)
+- [Deep Reinforcement Learning with Python: RLHF for Chatbots and Large Language Models](https://www.oreilly.com/library/view/deep-reinforcement-learning/9798868802737/)
+- [Hands-On Genetic Algorithms with Python - Second Edition](https://www.oreilly.com/library/view/hands-on-genetic-algorithms/9781805123798/)
+- [Artificial Intelligence Programming with Python](https://www.oreilly.com/library/view/artificial-intelligence-programming/9781119820864/)
+- [Building Computer Vision Applications Using Artificial Neural Networks: With Step-by-Step Examples in OpenCV and TensorFlow with Python](https://www.oreilly.com/library/view/building-computer-vision/9781484258873/)
+- [Foundations of Deep Reinforcement Learning: Theory and Practice in Python](https://www.oreilly.com/library/view/foundations-of-deep/9780135172490/)
+- [Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python](https://www.oreilly.com/library/view/learn-keras-for/9781484242407/)
+- [Deep Learning with Applications Using Python: Chatbots and Face, Object, and Speech Recognition With TensorFlow and Keras](https://www.oreilly.com/library/view/deep-learning-with/9781484235164/)
+- [Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing](https://www.oreilly.com/library/view/applied-natural-language/9781484237335/)
+- [Privacy-Preserving Machine Learning](https://www.oreilly.com/library/view/privacy-preserving-machine-learning/9781800564671/)
+- [Building LLMs for Production](https://www.oreilly.com/library/view/building-llms-for/9798324731472/)
+- [Generative AI for Software Development](https://www.oreilly.com/library/view/generative-ai-for/9781098162269/)
+- [What Is LLMOps?](https://www.oreilly.com/library/view/what-is-llmops/9781098154301/)
+- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
+- [Deep Learning for Time Series Cookbook](https://www.oreilly.com/library/view/deep-learning-for/9781805129233/)
+- [Programming Large Language Models with Azure Open AI: Conversational programming and prompt engineering with LLMs](https://www.oreilly.com/library/view/programming-large-language/9780138280383/)
+- [AI Startup Strategy: A Blueprint to Building Successful Artificial Intelligence Products from Inception to Exit](https://www.oreilly.com/library/view/the-ai-revolution/9780138293703/)
+- [Building LLM Powered Applications](https://www.oreilly.com/library/view/building-llm-powered/9781835462317/)
+- [The Machine Learning Solutions Architect Handbook - Second Edition](https://www.oreilly.com/library/view/the-machine-learning/9781805122500/)
+- [Prompt Engineering for LLMs](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
+- [Low-Code AI](https://www.oreilly.com/library/view/low-code-ai/9781098146818/)
+- [Designing Large Language Model Applications](https://www.oreilly.com/library/view/designing-large-language/9781098150495/)
+- [Effective Machine Learning Teams](https://www.oreilly.com/library/view/effective-machine-learning/9781098144623/)
+- [The AI Revolution in Medicine: GPT-4 and Beyond](https://www.oreilly.com/library/view/the-ai-revolution/9780138200145/)
+- [Deep Learning for Natural Language Processing](https://www.oreilly.com/library/view/deep-learning-for/9781617295447/)
+- [Machine Learning Model Serving Patterns and Best Practices](https://www.oreilly.com/library/view/machine-learning-model/9781803249902/)
+- [Applied Machine Learning and AI for Engineers](https://www.oreilly.com/library/view/applied-machine-learning/9781492098041/)
+- [Applied Machine Learning Explainability Techniques](https://www.oreilly.com/library/view/applied-machine-learning/9781803246154/)
+- [Explainable AI for Practitioners](https://www.oreilly.com/library/view/explainable-ai-for/9781098119126/)
+- [Practical Deep Learning at Scale with MLflow](https://www.oreilly.com/library/view/practical-deep-learning/9781803241333/)
+- [Artificial Intelligence - Ethical, social, and security impacts for the present and the future](https://www.oreilly.com/library/view/artificial-intelligence/9781787783720/)
+- [Inside Deep Learning](https://www.oreilly.com/library/view/inside-deep-learning/9781617298639/)
+- [Generative Deep Learning, 2nd Edition](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/)
+- [Natural Language Processing with Transformers, Revised Edition](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
+- [Machine Learning Engineering in Action](https://www.oreilly.com/library/view/machine-learning-engineering/9781617298714/)
+- [Conversational AI](https://www.oreilly.com/library/view/conversational-ai/9781617298837/)
+- [Machine Learning Approach for Cloud Data Analytics in IoT](https://www.oreilly.com/library/view/machine-learning-approach/9781119785804/)
+- [Quantum Machine Learning: An Applied Approach: The Theory and Application of Quantum Machine Learning in Science and Industry](https://www.oreilly.com/library/view/quantum-machine-learning/9781484270981/)
   
 ### ML & AI Frameworks
 - [MLX](https://ml-explore.github.io/mlx/build/html/install.html)
