@@ -93,7 +93,7 @@ I've personally read most of the materials and had chance to work with source co
 - [Springer - Minds and Machines](http://www.springer.com/journal/11023)
 - [Springer - New Generation Computing](https://link.springer.com/journal/354)
 - [Springer - Progress in Artificial Intelligence](https://link.springer.com/journal/13748)
-- [ScienceDirect - OpenAI ](https://www.sciencedirect.com/journal/ai-open)
+- [ScienceDirect - AI Open](https://www.sciencedirect.com/journal/ai-open)
 - [ScienceDirect - Array](https://www.sciencedirect.com/journal/array)
 - [ScienceDirect - Cognitive Robotics](https://www.sciencedirect.com/journal/cognitive-robotics)
 - [ScienceDirect - Future Computing and Informatics Journal](https://www.sciencedirect.com/journal/future-computing-and-informatics-journal)
