@@ -129,6 +129,7 @@ I've personally read most of the materials and had chance to work with source co
 - [MathChat: Converse to Tackle Challenging Math Problems with LLM Agents](https://arxiv.org/abs/2306.01337)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712)
+- [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
 
 ## 🕸️ Neural Networks
