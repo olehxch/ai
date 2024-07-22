@@ -145,6 +145,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712)
 - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
 ## 🕸️ Neural Networks
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
