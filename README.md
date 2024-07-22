@@ -151,6 +151,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
 ## 🕸️ Articles on Neural Networks
+- [An Overview of Large Language Models (LLMs)](https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 - [What are recurrent neural networks? / IBM](https://www.ibm.com/topics/recurrent-neural-networks)
