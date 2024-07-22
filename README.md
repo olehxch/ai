@@ -150,7 +150,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-## 🕸️ Articles about Neural Networks
+## 🕸️ Articles on Neural Networks
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 - [What are recurrent neural networks? / IBM](https://www.ibm.com/topics/recurrent-neural-networks)
