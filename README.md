@@ -150,32 +150,32 @@ I've personally read most of the materials and had a chance to work with source 
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-## 🕸️ Neural Networks
+## 🕸️ Articles about Neural Networks
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 - [What are recurrent neural networks? / IBM](https://www.ibm.com/topics/recurrent-neural-networks)
 - [Introducing deep learning and long-short term memory networks / IBM](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-1/)
-
-## 👻 Neural Networks & AI Visualizations 
 - [Autoregressive Models in Deep Learning — A Brief Survey](https://www.georgeho.org/deep-autoregressive-models/)
 - [Cookbook — Bayesian Modelling with PyMC3](https://www.georgeho.org/bayesian-modelling-cookbook/)
 - [Decaying Evidence and Contextual Bandits — Bayesian Reinforcement Learning (Part 2)](https://www.georgeho.org/bayesian-bandits-2/)
 - [Floating-Point Formats and Deep Learning](https://www.georgeho.org/floating-point-deep-learning/)
 - [Fruit Loops and Learning - The LUPI Paradigm and SVM+](https://www.georgeho.org/lupi/)
 - [Linear Discriminant Analysis for Starters](https://www.georgeho.org/lda/)
-- [LLM Visualization](https://bbycroft.net/llm)
 - [Modern Computational Methods for Bayesian Inference — A Reading List](https://www.georgeho.org/bayesian-inference-reading/)
 - [Multi-Armed Bandits and Conjugate Models — Bayesian Reinforcement Learning (Part 1)](https://www.georgeho.org/bayesian-bandits/)
-- [Netron](https://github.com/lutzroeder/netron?tab=readme-ov-file)
-- [Neural Network Visualization](https://github.com/julrog/nn_vis)
 - [Portfolio Risk Analytics and Performance Attribution with Pyfolio](https://www.georgeho.org/pyfolio/)
 - [Probabilistic and Bayesian Matrix Factorizations for Text Clustering](https://www.georgeho.org/matrix-factorizations/)
-- [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
-- [TensorFlow Playground](https://playground.tensorflow.org)
 - [Transformers in Natural Language Processing — A Brief Survey](https://www.georgeho.org/transformers-in-nlp/)
 - [Understanding Hate Speech on Reddit through Text Clustering](https://www.georgeho.org/reddit-clusters/)
 - [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://www.georgeho.org/tensor-computation-libraries/)
 - [Why Latent Dirichlet Allocation Sucks](https://www.georgeho.org/lda-sucks/)
+  
+## 👻 Neural Networks Visualizations 
+- [LLM Visualization](https://bbycroft.net/llm)
+- [Netron](https://github.com/lutzroeder/netron?tab=readme-ov-file)
+- [Neural Network Visualization](https://github.com/julrog/nn_vis)
+- [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
+- [TensorFlow Playground](https://playground.tensorflow.org)
 
 ## 🐍 Python
 - [Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing](https://www.oreilly.com/library/view/applied-natural-language/9781484237335/)
