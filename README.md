@@ -142,6 +142,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - [Generative Pre-trained Transformer: A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions](https://arxiv.org/abs/2305.10435)
 - [MathChat: Converse to Tackle Challenging Math Problems with LLM Agents](https://arxiv.org/abs/2306.01337)
+- [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057)
 - [LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code Generation](https://arxiv.org/abs/2308.02828)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [Representation Deficiency in Masked Language Modeling](https://arxiv.org/abs/2302.02060)
