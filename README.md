@@ -178,6 +178,8 @@ I've personally read most of the materials and had a chance to work with source 
 - [Neural Network Visualization](https://github.com/julrog/nn_vis)
 - [TensorBoard: TensorFlow's visualization toolkit](https://www.tensorflow.org/tensorboard)
 - [TensorFlow Playground](https://playground.tensorflow.org)
+- [TensorFlow Embedding Projector](http://projector.tensorflow.org)
+- [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.google/blog/open-sourcing-the-embedding-projector-a-tool-for-visualizing-high-dimensional-data/)
 
 ## 🐍 Python
 - [Applied Natural Language Processing with Python: Implementing Machine Learning and Deep Learning Algorithms for Natural Language Processing](https://www.oreilly.com/library/view/applied-natural-language/9781484237335/)
