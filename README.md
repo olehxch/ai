@@ -212,7 +212,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Programming Large Language Models with Azure Open AI: Conversational programming and prompt engineering with LLMs](https://www.oreilly.com/library/view/programming-large-language/9780138280383/)
   
-### ⛓️ ML & AI Frameworks
+## ⛓️ ML & AI Frameworks
 - [FLAX](https://flax.readthedocs.io/en/latest/)
 - [JAX](https://jax.readthedocs.io/en/latest/)
 - [Keras](https://keras.io)
@@ -220,7 +220,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [PyTorch](https://pytorch.org)
 - [TensorFlow](https://www.tensorflow.org)
 
-### ⚙️ SDKs and Development Tools
+## ⚙️ SDKs and Development Tools
 - [AutoGEN](https://microsoft.github.io/autogen/)
 - [LangChain](https://www.langchain.com)
 - [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
