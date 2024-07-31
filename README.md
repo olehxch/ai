@@ -212,13 +212,20 @@ I've personally read most of the materials and had a chance to work with source 
 - [Practical Natural Language Processing](https://www.oreilly.com/library/view/practical-natural-language/9781492054047/)
 - [Programming Large Language Models with Azure Open AI: Conversational programming and prompt engineering with LLMs](https://www.oreilly.com/library/view/programming-large-language/9780138280383/)
   
-### ML & AI Frameworks
+### ⛓️ ML & AI Frameworks
 - [FLAX](https://flax.readthedocs.io/en/latest/)
 - [JAX](https://jax.readthedocs.io/en/latest/)
 - [Keras](https://keras.io)
 - [MLX](https://ml-explore.github.io/mlx/build/html/install.html)
 - [PyTorch](https://pytorch.org)
 - [TensorFlow](https://www.tensorflow.org)
+
+### ⚙️ SDKs and Development Tools
+- [AutoGEN](https://microsoft.github.io/autogen/)
+- [LangChain](https://www.langchain.com)
+- [LlamaIndex](https://docs.llamaindex.ai/en/stable/)
+- [Ollama](https://ollama.com)
+- [vLLM](https://docs.vllm.ai/en/latest/)
 
 ## 🎞 WWDC24 | Apple
 - [WWDC24: Bring your machine learning and AI models to Apple silicon | Apple](https://www.youtube.com/watch?v=ZgG2JVnJ7nw)
