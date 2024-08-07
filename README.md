@@ -158,9 +158,12 @@ I've personally read most of the materials and had a chance to work with source 
 ## 🕸️ Articles on Neural Networks
 - [An Overview of Large Language Models (LLMs)](https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
 - [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
+- [Introducing deep learning and long-short term memory networks / IBM](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-1/)
 - [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 - [What are recurrent neural networks? / IBM](https://www.ibm.com/topics/recurrent-neural-networks)
-- [Introducing deep learning and long-short term memory networks / IBM](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-1/)
+- [Why Latent Dirichlet Allocation Sucks](https://www.georgeho.org/lda-sucks/)
+
+### Articles by George Ho
 - [Autoregressive Models in Deep Learning — A Brief Survey](https://www.georgeho.org/deep-autoregressive-models/)
 - [Cookbook — Bayesian Modelling with PyMC3](https://www.georgeho.org/bayesian-modelling-cookbook/)
 - [Decaying Evidence and Contextual Bandits — Bayesian Reinforcement Learning (Part 2)](https://www.georgeho.org/bayesian-bandits-2/)
@@ -174,9 +177,23 @@ I've personally read most of the materials and had a chance to work with source 
 - [Transformers in Natural Language Processing — A Brief Survey](https://www.georgeho.org/transformers-in-nlp/)
 - [Understanding Hate Speech on Reddit through Text Clustering](https://www.georgeho.org/reddit-clusters/)
 - [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://www.georgeho.org/tensor-computation-libraries/)
-- [Why Latent Dirichlet Allocation Sucks](https://www.georgeho.org/lda-sucks/)
   
-## 👻 Neural Networks Visualizations 
+### Articles by Jay Alammar
+- [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [Finding the Words to Say: Hidden State Visualizations for Language Models](https://jalammar.github.io/hidden-states/)
+- [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+- [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)
+- [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
+  
+## 👻 Neural Networks Visualizations
+- [Attention Viz](https://attentionviz.com)
+- [BertViz](https://github.com/jessevig/bertviz)
 - [LLM Visualization](https://bbycroft.net/llm)
 - [Netron](https://github.com/lutzroeder/netron?tab=readme-ov-file)
 - [Neural Network Visualization](https://github.com/julrog/nn_vis)
