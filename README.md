@@ -155,13 +155,18 @@ I've personally read most of the materials and had a chance to work with source 
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
-## 🕸️ Articles on Neural Networks
+## 🕸️ Articles on Neural Networks and Related Topics
 - [An Overview of Large Language Models (LLMs)](https://wandb.ai/mostafaibrahim17/ml-articles/reports/An-Overview-of-Large-Language-Models-LLMs---VmlldzozODA3MzQz)
-- [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
 - [Introducing deep learning and long-short term memory networks / IBM](https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-detection-1/)
-- [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
+- [Making Peace with LLM Non-determinism](https://barryzhang.substack.com/p/making-peace-with-llm-non-determinism)
+- [Non-determinism in GPT-4 is caused by Sparse MoE](https://152334h.github.io/blog/non-determinism-in-gpt-4/)
+- [Sampling for Text Generation](https://huyenchip.com/2024/01/16/sampling.html)
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/#model-architecture)
 - [What are recurrent neural networks? / IBM](https://www.ibm.com/topics/recurrent-neural-networks)
-- [Why Latent Dirichlet Allocation Sucks](https://www.georgeho.org/lda-sucks/)
+
+### Articles by Andrej Karpathy
+- [A Recipe for Training Neural Networks / Andrej Karpathy](https://karpathy.github.io/2019/04/25/recipe/)
+- [Neural Networks: Zero to Hero / Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
 
 ### Articles by George Ho
 - [Autoregressive Models in Deep Learning — A Brief Survey](https://www.georgeho.org/deep-autoregressive-models/)
@@ -177,6 +182,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Transformers in Natural Language Processing — A Brief Survey](https://www.georgeho.org/transformers-in-nlp/)
 - [Understanding Hate Speech on Reddit through Text Clustering](https://www.georgeho.org/reddit-clusters/)
 - [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://www.georgeho.org/tensor-computation-libraries/)
+- [Why Latent Dirichlet Allocation Sucks](https://www.georgeho.org/lda-sucks/)
   
 ### Articles by Jay Alammar
 - [A Visual And Interactive Look at Basic Neural Network Math](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
