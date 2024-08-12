@@ -14,6 +14,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Cohere For AI](https://cohere.com/research)
 - [Cortical Labs - Dishbrain Intelligence](https://corticallabs.com)
 - [Figure.AI](https://www.figure.ai)
+- [FinalSpark](https://finalspark.com)
 - [Google AI Lab](https://labs.google)
 - [Google DeepMind Research](https://deepmind.com/research/)
 - [IBM Research](https://research.ibm.com)
