@@ -9,7 +9,7 @@ I've personally read most of the materials and had a chance to work with source 
 
 🙌 This collection was created by Oleh Chaplia and is constantly updated.
 
-## 👨‍🔬 Research Labs
+## 👨‍🔬 Commercial AI Research Labs
 - [Artificial Intelligence Research Lab](https://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/)
 - [Cohere For AI](https://cohere.com/research)
 - [Cortical Labs - Dishbrain Intelligence](https://corticallabs.com)
@@ -23,14 +23,19 @@ I've personally read most of the materials and had a chance to work with source 
 - [Machine Learning | Research at Apple](https://machinelearning.apple.com)
 - [Meta Research](https://research.facebook.com)
 - [Microsoft Research](https://www.microsoft.com/en-us/research/)
-- [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu)
-- [MIT-IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
 - [NASA - Autonomous Systems & Robotics](https://www.nasa.gov/intelligent-systems-division/autonomous-systems-and-robotics/)
 - [NASA - Intelligent Systems Division](https://www.nasa.gov/intelligent-systems-division/)
 - [NASA - Robust Software Engineering](https://www.nasa.gov/intelligent-systems-division/robust-software-engineering/)
 - [Nvidia Resources](https://developer.nvidia.com)
 - [OpenAI](https://openai.com/about/)
 - [Silo AI: Europe's largest private AI lab](https://www.silo.ai)
+
+## 👨‍🔬 University AI Research Labs
+- [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu)
+- [Machine Learning Research Group, University of Oxford](https://www.robots.ox.ac.uk/~parg/)
+- [MIT-IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
+- [MIT Computer Science & Artificial Intelligence Laboratory](https://www.csail.mit.edu)
+- [The Alan Turing Institute](https://www.turing.ac.uk)
 - [Stanford AI Lab](https://ai.stanford.edu)
 
 ## 🤖 Artificial Intelligence
