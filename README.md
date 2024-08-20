@@ -139,6 +139,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [A Survey of Prompt Engineering Methods in Large Language Models for Different NLP Tasks](https://arxiv.org/abs/2407.12994)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation](https://arxiv.org/abs/2308.08155)
+- [Automated Design of Agentic Systems](https://arxiv.org/abs/2408.08435)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
 - [Beyond Text: A Deep Dive into Large Language Models’ Ability on Understanding Graph Data](http://arxiv.org/abs/2310.04944)
 - [Cramming: Training a Language Model on a Single GPU in One Day](http://arxiv.org/abs/2212.14034)
@@ -146,6 +147,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 - [Generative Pre-trained Transformer: A Comprehensive Review on Enabling Technologies, Potential Applications, Emerging Challenges, and Future Directions](https://arxiv.org/abs/2305.10435)
+- [GenSQL: A Probabilistic Programming System for Querying Generative Models of Database Tables](https://dl.acm.org/doi/10.1145/3656409)
 - [MathChat: Converse to Tackle Challenging Math Problems with LLM Agents](https://arxiv.org/abs/2306.01337)
 - [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057)
 - [LLM is Like a Box of Chocolates: the Non-determinism of ChatGPT in Code Generation](https://arxiv.org/abs/2308.02828)
@@ -154,6 +156,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](http://arxiv.org/abs/2303.12712)
 - [SpreadsheetLLM: Encoding Spreadsheets for Large Language Models](https://arxiv.org/abs/2407.09025)
 - [StarCoder: may the source be with you!](10.48550/arXiv.2305.06161)
+- [The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556)
 
 ## 🕸️ Articles on Neural Networks and Related Topics
