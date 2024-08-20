@@ -30,7 +30,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [OpenAI](https://openai.com/about/)
 - [Silo AI: Europe's largest private AI lab](https://www.silo.ai)
 
-## 👨‍🔬 University AI Research Labs
+## 👨‍🔬 Academic AI Research Labs
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu)
 - [Machine Learning Research Group, University of Oxford](https://www.robots.ox.ac.uk/~parg/)
 - [MIT-IBM Watson Research Lab](https://mitibmwatsonailab.mit.edu)
