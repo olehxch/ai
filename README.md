@@ -253,6 +253,8 @@ I've personally read most of the materials and had a chance to work with source 
 - [MLX](https://ml-explore.github.io/mlx/build/html/install.html)
 - [PyTorch](https://pytorch.org)
 - [TensorFlow](https://www.tensorflow.org)
+- [Micrograd](https://github.com/karpathy/micrograd)
+- [Tinygrad](https://github.com/tinygrad/tinygrad)
 
 ## ⚙️ SDKs and Development Tools
 - [AutoGEN](https://microsoft.github.io/autogen/)
