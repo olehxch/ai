@@ -208,7 +208,7 @@ I've personally read most of the materials and had a chance to work with source 
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 
-## Distill Scientific Journal
+### Distill Scientific Journal
 
 - [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
 - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
