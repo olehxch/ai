@@ -10,6 +10,7 @@ I've personally read most of the materials and had a chance to work with source 
 🙌 This collection was created by Oleh Chaplia and is constantly updated.
 
 ## 👨‍🔬 Commercial AI Research Labs
+- [Archetype AI](https://www.archetypeai.io)
 - [Artificial Intelligence Research Lab](https://www.bell-labs.com/research-innovation/projects-and-initiatives/air-lab/)
 - [Cohere For AI](https://cohere.com/research)
 - [Cortical Labs - Dishbrain Intelligence](https://corticallabs.com)
